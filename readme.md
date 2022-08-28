@@ -1,3 +1,3 @@
-Single page app with a 3d animation while scrolling.
+Game in threejs.
 
-https://animation-box.herokuapp.com/
+Goal to remove old sattelites by moving the starship at the position.
